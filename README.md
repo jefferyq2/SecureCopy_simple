@@ -1,0 +1,2 @@
+# SecureCopy_simple
+Libgcrypt
